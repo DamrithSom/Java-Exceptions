@@ -8,5 +8,6 @@ public class Main {
 
         // Calling the numBer method and printing the result
         System.out.println(user.numBer());
+        Thr
     }
 }
